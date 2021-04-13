@@ -1,0 +1,6 @@
+--input dist
+--main-jar idid.jar
+--name "idid"
+--main-class clojure.main
+--arguments -m
+--arguments idid.core
